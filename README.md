@@ -1,9 +1,9 @@
 # Hello, I'm Jeevan Dhakal. 👋
-I am a passionate backend developer with over a year of experience. I'm on an exciting journey of delving into the world of data science while continuing to refine my skills as a developer.
+I am a passionate backend developer. I'm embarking on an exciting journey of exploring the world of data science while refining my skills as a developer.
 
 My expertise lies in developing full-stack web applications with Django, building robust REST APIs using Django Rest Framework, and crafting efficient GraphQL APIs with GQLgen in Golang. I'm no stranger to the world of web scraping, leveraging Python to extract meaningful insights from the web.
 
-Proficient in Docker, I'm skilled in containerization and orchestrating applications for smooth deployment and scaling. I'm also well-versed in modern software development practices. I've mastered the art of GitHub CI/CD, ensuring seamless integration and deployment. My database prowess extends to PostgreSQL and MySQL, enabling me to design scalable and performant systems.
+Proficient in Docker, I'm skilled in containerization and orchestrating applications for smooth deployment and scaling. I'm also well-versed in modern software development practices. I've mastered the art of GitHub CI/CD, ensuring seamless integration and deployment. My database expertise spans PostgreSQL and MySQL, enabling me to design scalable and high-performance systems.
 
 My curiosity has led me to explore the realm of data analysis. I'm actively honing my data analysis skills and applying them through insightful projects. From data cleaning to visualization, I'm dedicated to turning raw data into meaningful narratives.
 
@@ -11,7 +11,7 @@ In conclusion, my journey as a backend developer and my fervor for data science 
 
 ## Writing ✍️
 
-I'm passionate about writing on a wide array of topics related to back-end development and data science and its interconnected aspects. My portfolio is available at [dhakaljeevan.com.np](https://dhakaljeevan.com.np/), where you can explore my thoughts and insights.
+I'm passionate about writing on a wide array of topics related to back-end development and data science, and its interconnected aspects. My portfolio is available at [dhakaljeevan.com.np](https://dhakaljeevan.com.np/), where you can explore my thoughts and insights.
 
 ### Latest Articles:
 
